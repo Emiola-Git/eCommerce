@@ -1,4 +1,12 @@
-# eCommerce
+# eCommerce 
+# OVERVIEW
+This dashboard provides an overview of Sales performance for Accessories and Electronics.
+It displays key metrics such as the number of Customers, Total Orders, Average Order Value, and Total Sales. 
+Additionally, it offers insights into Sales by Country, Payment Method, and Product Category. 
+The dashboard tracks growth and decline trends over months and years, allowing for easy analysis 
+of performance over time. Filters are also available for monthly data and product categories, 
+enabling more focused analysis.
+
 ![Image](https://github.com/user-attachments/assets/e72eab1f-db86-4c7e-98a0-6d49fa84b4b9)
 
 ## DATA SOURCE
