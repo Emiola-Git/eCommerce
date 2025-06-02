@@ -7,9 +7,9 @@ The dashboard tracks growth and decline trends over months and years, allowing f
 of performance over time. Filters are also available for monthly data and product categories, 
 enabling more focused analysis.
 
-![Image](https://github.com/user-attachments/assets/bbc51cde-5ce2-4e15-8a2c-ab1b8f661107)
+![Image](https://github.com/user-attachments/assets/8e98cea0-7ba4-4240-9ea8-6e6b86915efb)
 
-![Image](https://github.com/user-attachments/assets/e72eab1f-db86-4c7e-98a0-6d49fa84b4b9)
+
 
 ## DATA SOURCE
 [ecommerce_data.csv](https://github.com/user-attachments/files/18516915/ecommerce_data.csv)
